@@ -8043,24 +8043,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\gabri\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gabri\\source\\repos\\AdministradorTienda\\AdministradorTienda\\AdministradorTienda.csproj",
+      "projectUniqueName": "C:\\Users\\User\\OneDrive\\Documentos\\GitHub\\aaaaaaaaaaaaaaaaa\\AdministradorTienda\\AdministradorTienda\\AdministradorTienda.csproj",
       "projectName": "AdministradorTienda",
-      "projectPath": "C:\\Users\\gabri\\source\\repos\\AdministradorTienda\\AdministradorTienda\\AdministradorTienda.csproj",
-      "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gabri\\source\\repos\\AdministradorTienda\\AdministradorTienda\\obj\\",
+      "projectPath": "C:\\Users\\User\\OneDrive\\Documentos\\GitHub\\aaaaaaaaaaaaaaaaa\\AdministradorTienda\\AdministradorTienda\\AdministradorTienda.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\OneDrive\\Documentos\\GitHub\\aaaaaaaaaaaaaaaaa\\AdministradorTienda\\AdministradorTienda\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8086,8 +8081,7 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.100"
+      }
     },
     "frameworks": {
       "net8.0": {
@@ -8143,7 +8137,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.405/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

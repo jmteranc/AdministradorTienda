@@ -1,45 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\gabri\\source\\repos\\AdministradorTienda\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Documentos\\GitHub\\aaaaaaaaaaaaaaaaa\\AdministradorTienda\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ABF2A33E-9AD7-4143-9065-D996EA8E8EAA}|AdministradorTienda\\AdministradorTienda.csproj|c:\\users\\gabri\\source\\repos\\administradortienda\\administradortienda\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ABF2A33E-9AD7-4143-9065-D996EA8E8EAA}|AdministradorTienda\\AdministradorTienda.csproj|c:\\users\\user\\onedrive\\documentos\\github\\aaaaaaaaaaaaaaaaa\\administradortienda\\administradortienda\\views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ABF2A33E-9AD7-4143-9065-D996EA8E8EAA}|AdministradorTienda\\AdministradorTienda.csproj|solutionrelative:administradortienda\\views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABF2A33E-9AD7-4143-9065-D996EA8E8EAA}|AdministradorTienda\\AdministradorTienda.csproj|c:\\users\\user\\onedrive\\documentos\\github\\aaaaaaaaaaaaaaaaa\\administradortienda\\administradortienda\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ABF2A33E-9AD7-4143-9065-D996EA8E8EAA}|AdministradorTienda\\AdministradorTienda.csproj|solutionrelative:administradortienda\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABF2A33E-9AD7-4143-9065-D996EA8E8EAA}|AdministradorTienda\\AdministradorTienda.csproj|c:\\users\\gabri\\source\\repos\\administradortienda\\administradortienda\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ABF2A33E-9AD7-4143-9065-D996EA8E8EAA}|AdministradorTienda\\AdministradorTienda.csproj|c:\\users\\user\\onedrive\\documentos\\github\\aaaaaaaaaaaaaaaaa\\administradortienda\\administradortienda\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ABF2A33E-9AD7-4143-9065-D996EA8E8EAA}|AdministradorTienda\\AdministradorTienda.csproj|solutionrelative:administradortienda\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABF2A33E-9AD7-4143-9065-D996EA8E8EAA}|AdministradorTienda\\AdministradorTienda.csproj|c:\\users\\gabri\\source\\repos\\administradortienda\\administradortienda\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{ABF2A33E-9AD7-4143-9065-D996EA8E8EAA}|AdministradorTienda\\AdministradorTienda.csproj|c:\\users\\user\\onedrive\\documentos\\github\\aaaaaaaaaaaaaaaaa\\administradortienda\\administradortienda\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{ABF2A33E-9AD7-4143-9065-D996EA8E8EAA}|AdministradorTienda\\AdministradorTienda.csproj|solutionrelative:administradortienda\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABF2A33E-9AD7-4143-9065-D996EA8E8EAA}|AdministradorTienda\\AdministradorTienda.csproj|c:\\users\\gabri\\source\\repos\\administradortienda\\administradortienda\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ABF2A33E-9AD7-4143-9065-D996EA8E8EAA}|AdministradorTienda\\AdministradorTienda.csproj|c:\\users\\user\\onedrive\\documentos\\github\\aaaaaaaaaaaaaaaaa\\administradortienda\\administradortienda\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ABF2A33E-9AD7-4143-9065-D996EA8E8EAA}|AdministradorTienda\\AdministradorTienda.csproj|solutionrelative:administradortienda\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABF2A33E-9AD7-4143-9065-D996EA8E8EAA}|AdministradorTienda\\AdministradorTienda.csproj|c:\\users\\gabri\\source\\repos\\administradortienda\\administradortienda\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ABF2A33E-9AD7-4143-9065-D996EA8E8EAA}|AdministradorTienda\\AdministradorTienda.csproj|c:\\users\\user\\onedrive\\documentos\\github\\aaaaaaaaaaaaaaaaa\\administradortienda\\administradortienda\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ABF2A33E-9AD7-4143-9065-D996EA8E8EAA}|AdministradorTienda\\AdministradorTienda.csproj|solutionrelative:administradortienda\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABF2A33E-9AD7-4143-9065-D996EA8E8EAA}|AdministradorTienda\\AdministradorTienda.csproj|c:\\users\\gabri\\source\\repos\\administradortienda\\administradortienda\\models\\cuentacliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ABF2A33E-9AD7-4143-9065-D996EA8E8EAA}|AdministradorTienda\\AdministradorTienda.csproj|c:\\users\\user\\onedrive\\documentos\\github\\aaaaaaaaaaaaaaaaa\\administradortienda\\administradortienda\\models\\cuentacliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ABF2A33E-9AD7-4143-9065-D996EA8E8EAA}|AdministradorTienda\\AdministradorTienda.csproj|solutionrelative:administradortienda\\models\\cuentacliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABF2A33E-9AD7-4143-9065-D996EA8E8EAA}|AdministradorTienda\\AdministradorTienda.csproj|c:\\users\\gabri\\source\\repos\\administradortienda\\administradortienda\\models\\detallepedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ABF2A33E-9AD7-4143-9065-D996EA8E8EAA}|AdministradorTienda\\AdministradorTienda.csproj|c:\\users\\user\\onedrive\\documentos\\github\\aaaaaaaaaaaaaaaaa\\administradortienda\\administradortienda\\models\\detallepedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ABF2A33E-9AD7-4143-9065-D996EA8E8EAA}|AdministradorTienda\\AdministradorTienda.csproj|solutionrelative:administradortienda\\models\\detallepedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABF2A33E-9AD7-4143-9065-D996EA8E8EAA}|AdministradorTienda\\AdministradorTienda.csproj|c:\\users\\gabri\\source\\repos\\administradortienda\\administradortienda\\models\\pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ABF2A33E-9AD7-4143-9065-D996EA8E8EAA}|AdministradorTienda\\AdministradorTienda.csproj|c:\\users\\user\\onedrive\\documentos\\github\\aaaaaaaaaaaaaaaaa\\administradortienda\\administradortienda\\models\\pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ABF2A33E-9AD7-4143-9065-D996EA8E8EAA}|AdministradorTienda\\AdministradorTienda.csproj|solutionrelative:administradortienda\\models\\pago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABF2A33E-9AD7-4143-9065-D996EA8E8EAA}|AdministradorTienda\\AdministradorTienda.csproj|c:\\users\\gabri\\source\\repos\\administradortienda\\administradortienda\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ABF2A33E-9AD7-4143-9065-D996EA8E8EAA}|AdministradorTienda\\AdministradorTienda.csproj|c:\\users\\user\\onedrive\\documentos\\github\\aaaaaaaaaaaaaaaaa\\administradortienda\\administradortienda\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ABF2A33E-9AD7-4143-9065-D996EA8E8EAA}|AdministradorTienda\\AdministradorTienda.csproj|solutionrelative:administradortienda\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ABF2A33E-9AD7-4143-9065-D996EA8E8EAA}|AdministradorTienda\\AdministradorTienda.csproj|c:\\users\\gabri\\source\\repos\\administradortienda\\administradortienda\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ABF2A33E-9AD7-4143-9065-D996EA8E8EAA}|AdministradorTienda\\AdministradorTienda.csproj|c:\\users\\user\\onedrive\\documentos\\github\\aaaaaaaaaaaaaaaaa\\administradortienda\\administradortienda\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ABF2A33E-9AD7-4143-9065-D996EA8E8EAA}|AdministradorTienda\\AdministradorTienda.csproj|solutionrelative:administradortienda\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -50,15 +54,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 214,
-          "SelectedChildIndex": 68,
+          "SelectedChildIndex": 58,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:1:0:{e8b06f53-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d562c6a0-d2fe-4c19-a8b3-e5cbc09bf375}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5c82a791-7c9f-441e-952b-8848655dd85e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5e929736-0e81-4d52-a78e-546a1649faca}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a34b1c5d-6d37-4a0c-a8b0-99f8e8158b48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
               "$type": "Bookmark",
@@ -67,14 +103,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Bookmark",
@@ -258,162 +286,138 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d562c6a0-d2fe-4c19-a8b3-e5cbc09bf375}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{5c82a791-7c9f-441e-952b-8848655dd85e}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{5e929736-0e81-4d52-a78e-546a1649faca}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{a34b1c5d-6d37-4a0c-a8b0-99f8e8158b48}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{e8b06f53-6d01-11d2-aa7d-00c04f990343}"
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\AdministradorTienda\\AdministradorTienda\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "AdministradorTienda\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\gabri\\source\\repos\\AdministradorTienda\\AdministradorTienda\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "AdministradorTienda\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAB0AAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\GitHub\\aaaaaaaaaaaaaaaaa\\AdministradorTienda\\AdministradorTienda\\Views\\Productos\\Index.cshtml",
+              "RelativeDocumentMoniker": "AdministradorTienda\\Views\\Productos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\GitHub\\aaaaaaaaaaaaaaaaa\\AdministradorTienda\\AdministradorTienda\\Views\\Productos\\Index.cshtml",
+              "RelativeToolTip": "AdministradorTienda\\Views\\Productos\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADEAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-16T07:22:17.706Z",
+              "WhenOpened": "2025-04-02T02:55:22.328Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Categoria.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\AdministradorTienda\\AdministradorTienda\\Models\\Categoria.cs",
-              "RelativeDocumentMoniker": "AdministradorTienda\\Models\\Categoria.cs",
-              "ToolTip": "C:\\Users\\gabri\\source\\repos\\AdministradorTienda\\AdministradorTienda\\Models\\Categoria.cs",
-              "RelativeToolTip": "AdministradorTienda\\Models\\Categoria.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T07:19:20.607Z",
-              "EditorCaption": ""
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\GitHub\\aaaaaaaaaaaaaaaaa\\AdministradorTienda\\AdministradorTienda\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AdministradorTienda\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\GitHub\\aaaaaaaaaaaaaaaaa\\AdministradorTienda\\AdministradorTienda\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AdministradorTienda\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-16T07:22:17.706Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\AdministradorTienda\\AdministradorTienda\\Models\\Cliente.cs",
-              "RelativeDocumentMoniker": "AdministradorTienda\\Models\\Cliente.cs",
-              "ToolTip": "C:\\Users\\gabri\\source\\repos\\AdministradorTienda\\AdministradorTienda\\Models\\Cliente.cs",
-              "RelativeToolTip": "AdministradorTienda\\Models\\Cliente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\GitHub\\aaaaaaaaaaaaaaaaa\\AdministradorTienda\\AdministradorTienda\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "AdministradorTienda\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\GitHub\\aaaaaaaaaaaaaaaaa\\AdministradorTienda\\AdministradorTienda\\Models\\Categoria.cs",
+              "RelativeToolTip": "AdministradorTienda\\Models\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T07:19:16.55Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T07:19:20.607Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "CuentaCliente.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\AdministradorTienda\\AdministradorTienda\\Models\\CuentaCliente.cs",
-              "RelativeDocumentMoniker": "AdministradorTienda\\Models\\CuentaCliente.cs",
-              "ToolTip": "C:\\Users\\gabri\\source\\repos\\AdministradorTienda\\AdministradorTienda\\Models\\CuentaCliente.cs",
-              "RelativeToolTip": "AdministradorTienda\\Models\\CuentaCliente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\GitHub\\aaaaaaaaaaaaaaaaa\\AdministradorTienda\\AdministradorTienda\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "AdministradorTienda\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\GitHub\\aaaaaaaaaaaaaaaaa\\AdministradorTienda\\AdministradorTienda\\Models\\Cliente.cs",
+              "RelativeToolTip": "AdministradorTienda\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T07:19:13.19Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T07:19:16.55Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "DetallePedido.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\AdministradorTienda\\AdministradorTienda\\Models\\DetallePedido.cs",
-              "RelativeDocumentMoniker": "AdministradorTienda\\Models\\DetallePedido.cs",
-              "ToolTip": "C:\\Users\\gabri\\source\\repos\\AdministradorTienda\\AdministradorTienda\\Models\\DetallePedido.cs",
-              "RelativeToolTip": "AdministradorTienda\\Models\\DetallePedido.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Title": "CuentaCliente.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\GitHub\\aaaaaaaaaaaaaaaaa\\AdministradorTienda\\AdministradorTienda\\Models\\CuentaCliente.cs",
+              "RelativeDocumentMoniker": "AdministradorTienda\\Models\\CuentaCliente.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\GitHub\\aaaaaaaaaaaaaaaaa\\AdministradorTienda\\AdministradorTienda\\Models\\CuentaCliente.cs",
+              "RelativeToolTip": "AdministradorTienda\\Models\\CuentaCliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T07:19:06.408Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T07:19:13.19Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Pago.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\AdministradorTienda\\AdministradorTienda\\Models\\Pago.cs",
-              "RelativeDocumentMoniker": "AdministradorTienda\\Models\\Pago.cs",
-              "ToolTip": "C:\\Users\\gabri\\source\\repos\\AdministradorTienda\\AdministradorTienda\\Models\\Pago.cs",
-              "RelativeToolTip": "AdministradorTienda\\Models\\Pago.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Title": "DetallePedido.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\GitHub\\aaaaaaaaaaaaaaaaa\\AdministradorTienda\\AdministradorTienda\\Models\\DetallePedido.cs",
+              "RelativeDocumentMoniker": "AdministradorTienda\\Models\\DetallePedido.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\GitHub\\aaaaaaaaaaaaaaaaa\\AdministradorTienda\\AdministradorTienda\\Models\\DetallePedido.cs",
+              "RelativeToolTip": "AdministradorTienda\\Models\\DetallePedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T07:18:45.055Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T07:19:06.408Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Pedido.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\AdministradorTienda\\AdministradorTienda\\Models\\Pedido.cs",
-              "RelativeDocumentMoniker": "AdministradorTienda\\Models\\Pedido.cs",
-              "ToolTip": "C:\\Users\\gabri\\source\\repos\\AdministradorTienda\\AdministradorTienda\\Models\\Pedido.cs",
-              "RelativeToolTip": "AdministradorTienda\\Models\\Pedido.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Title": "Pago.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\GitHub\\aaaaaaaaaaaaaaaaa\\AdministradorTienda\\AdministradorTienda\\Models\\Pago.cs",
+              "RelativeDocumentMoniker": "AdministradorTienda\\Models\\Pago.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\GitHub\\aaaaaaaaaaaaaaaaa\\AdministradorTienda\\AdministradorTienda\\Models\\Pago.cs",
+              "RelativeToolTip": "AdministradorTienda\\Models\\Pago.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T07:18:36.185Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T07:18:45.055Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\GitHub\\aaaaaaaaaaaaaaaaa\\AdministradorTienda\\AdministradorTienda\\Models\\Pedido.cs",
+              "RelativeDocumentMoniker": "AdministradorTienda\\Models\\Pedido.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\GitHub\\aaaaaaaaaaaaaaaaa\\AdministradorTienda\\AdministradorTienda\\Models\\Pedido.cs",
+              "RelativeToolTip": "AdministradorTienda\\Models\\Pedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T07:18:36.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\AdministradorTienda\\AdministradorTienda\\Models\\Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\GitHub\\aaaaaaaaaaaaaaaaa\\AdministradorTienda\\AdministradorTienda\\Models\\Usuario.cs",
               "RelativeDocumentMoniker": "AdministradorTienda\\Models\\Usuario.cs",
-              "ToolTip": "C:\\Users\\gabri\\source\\repos\\AdministradorTienda\\AdministradorTienda\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\GitHub\\aaaaaaaaaaaaaaaaa\\AdministradorTienda\\AdministradorTienda\\Models\\Usuario.cs",
               "RelativeToolTip": "AdministradorTienda\\Models\\Usuario.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T07:18:27.204Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T07:18:27.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\GitHub\\aaaaaaaaaaaaaaaaa\\AdministradorTienda\\AdministradorTienda\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "AdministradorTienda\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\GitHub\\aaaaaaaaaaaaaaaaa\\AdministradorTienda\\AdministradorTienda\\Models\\Producto.cs",
+              "RelativeToolTip": "AdministradorTienda\\Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T07:17:45.566Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Producto.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\AdministradorTienda\\AdministradorTienda\\Models\\Producto.cs",
-              "RelativeDocumentMoniker": "AdministradorTienda\\Models\\Producto.cs",
-              "ToolTip": "C:\\Users\\gabri\\source\\repos\\AdministradorTienda\\AdministradorTienda\\Models\\Producto.cs",
-              "RelativeToolTip": "AdministradorTienda\\Models\\Producto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T07:17:45.566Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "ProductosController.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\AdministradorTienda\\AdministradorTienda\\Controllers\\ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Documentos\\GitHub\\aaaaaaaaaaaaaaaaa\\AdministradorTienda\\AdministradorTienda\\Controllers\\ProductosController.cs",
               "RelativeDocumentMoniker": "AdministradorTienda\\Controllers\\ProductosController.cs",
-              "ToolTip": "C:\\Users\\gabri\\source\\repos\\AdministradorTienda\\AdministradorTienda\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Documentos\\GitHub\\aaaaaaaaaaaaaaaaa\\AdministradorTienda\\AdministradorTienda\\Controllers\\ProductosController.cs",
               "RelativeToolTip": "AdministradorTienda\\Controllers\\ProductosController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAhwBoAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAhwBcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-16T07:17:16.418Z",
               "EditorCaption": ""
@@ -424,6 +428,10 @@
           "DockedWidth": 200,
           "SelectedChildIndex": -1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cdbdee54-b399-484b-b763-db2c3393d646}"
@@ -450,7 +458,7 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
             },
             {
               "$type": "Bookmark",

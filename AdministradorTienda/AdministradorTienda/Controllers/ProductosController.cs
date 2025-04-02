@@ -48,24 +48,22 @@ namespace AdministradorTienda.Controllers
         // GET: Productos/Create
         public IActionResult Create()
         {
-            ViewData["IdCategoria"] = new SelectList(_context.Categorias, "IdCategoria", "IdCategoria");
+            ViewBag.IdCategoria = new SelectList(_context.Categorias, "IdCategoria", "Nombre");
             return View();
         }
 
         // POST: Productos/Create
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("IdProducto,Nombre,Descripcion,Precio,Stock,IdCategoria")] Producto producto)
+        public async Task<IActionResult> Create([Bind("Nombre,Descripcion,Precio,Stock,IdCategoria")] Producto producto)
         {
             if (ModelState.IsValid)
             {
-                _context.Add(producto);
+                _context.Productos.Add(producto);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["IdCategoria"] = new SelectList(_context.Categorias, "IdCategoria", "IdCategoria", producto.IdCategoria);
+            ViewBag.IdCategoria = new SelectList(_context.Categorias, "IdCategoria", "Nombre", producto.IdCategoria);
             return View(producto);
         }
 
